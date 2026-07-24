@@ -149,8 +149,8 @@ Create a `.env` file in the `backend` directory (refer to `.env.example`):
 
 ```env
 PORT=5000
-MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/leaddesk?retryWrites=true&w=majority
-JWT_SECRET=your_super_secret_jwt_key_here
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
 JWT_EXPIRES_IN=1d
 ```
 
@@ -329,5 +329,5 @@ For evaluation and testing, use the default seeded admin account:
 ## 👤 Author
 
 - **Name**: Sumit Kumar
-- **GitHub**: [`[GitHub Profile Placeholder]`](https://github.com/Sumitkumar016)
-- **LinkedIn**: [`[LinkedIn Profile Placeholder]`](https://www.linkedin.com/in/sumit-kumar-404aa0351/)
+- **GitHub**: https://github.com/Sumitkumar016
+- **LinkedIn**: https://www.linkedin.com/in/sumit-kumar-404aa0351/
