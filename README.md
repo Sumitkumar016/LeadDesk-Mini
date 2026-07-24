@@ -1,3 +1,5 @@
+Built as part of the Digital Heroes Full Stack Development Internship qualification task.
+
 # LeadDesk Mini
 
 > A modern, full-stack MERN Lead Management CRM enabling businesses to capture inbound inquiries through a high-converting public landing page and manage sales pipelines securely via an authenticated admin dashboard.
