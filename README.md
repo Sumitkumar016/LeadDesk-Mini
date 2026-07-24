@@ -312,8 +312,6 @@ JWT_EXPIRES_IN=1d
 
 ## 🤖 AI Usage
 
-## 🤖 AI Usage
-
 ChatGPT and Antigravity IDE were used during development to assist with project architecture brainstorming, form validation, debugging, UI refinement, and documentation. All AI-generated suggestions were carefully reviewed, customized, tested, and modified manually before being integrated into the final implementation.
 
 ---
