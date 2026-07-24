@@ -73,7 +73,13 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="pt-8 flex flex-col md:flex-row items-center justify-between text-xs text-slate-500">
-          <p>© {new Date().getFullYear()} LeadDesk Mini. Built with clean architecture & scalable design.</p>
+           <p> © 2026 LeadDesk Mini</p>
+          <a 
+            href="https://digitalheroesco.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            >
+              Built for Digital Heroes Training Task</a>
           <p className="flex items-center space-x-1 mt-2 md:mt-0">
             <span>Crafted for high performance</span>
           </p>
