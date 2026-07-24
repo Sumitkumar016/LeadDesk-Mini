@@ -8,9 +8,9 @@
 
 ## 🔗 Live Demo
 
-- **Frontend Application**: `[Live Frontend URL Placeholder]`
-- **Admin Dashboard**: `[Live Admin URL Placeholder]`
-- **GitHub Repository**: `[GitHub Repository URL Placeholder]`
+- **Frontend Application**: https://lead-desk-mini-8n28.vercel.app/
+- **Admin Dashboard**: https://lead-desk-mini-8n28.vercel.app/login/
+- **GitHub Repository**: https://github.com/Sumitkumar016/LeadDesk-Mini/
 
 ---
 
@@ -323,14 +323,9 @@ For evaluation and testing, use the default seeded admin account:
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for details.
-
----
 
 ## 👤 Author
 
 - **Name**: Sumit Kumar
-- **GitHub**: `[GitHub Profile Placeholder]`
-- **LinkedIn**: `[LinkedIn Profile Placeholder]`
+- **GitHub**: [`[GitHub Profile Placeholder]`](https://github.com/Sumitkumar016)
+- **LinkedIn**: [`[LinkedIn Profile Placeholder]`](https://www.linkedin.com/in/sumit-kumar-404aa0351/)
