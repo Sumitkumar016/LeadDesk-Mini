@@ -20,11 +20,11 @@ Built as part of the Digital Heroes Full Stack Development Internship qualificat
 
 | Page / Feature | Preview |
 | :--- | :--- |
-| **Landing Page** | [`![Landing Page Placeholder](https://via.placeholder.com/800x450?text=Landing+Page+Preview)` |](https://github.com/Sumitkumar016/LeadDesk-Mini/blob/main/Screenshots/Screenshot%202026-07-25%20021842.png
+| **Landing Page** | https://github.com/Sumitkumar016/LeadDesk-Mini/blob/main/Screenshots/Screenshot%202026-07-25%20021842.png
 )
-| **Admin Login** | [`![Admin Login Placeholder](https://via.placeholder.com/800x450?text=Admin+Login+Preview)` |](https://github.com/Sumitkumar016/LeadDesk-Mini/blob/main/Screenshots/Screenshot%202026-07-25%20021830.png)
-| **Dashboard Overview** |[ `![Dashboard Overview Placeholder](https://via.placeholder.com/800x450?text=Dashboard+Overview+Preview)` |](https://github.com/Sumitkumar016/LeadDesk-Mini/blob/main/Screenshots/Screenshot%202026-07-25%20021759.png)
-| **Lead Table** | [`![Lead Table Placeholder](https://via.placeholder.com/800x450?text=Lead+Table+Preview)` |](https://github.com/Sumitkumar016/LeadDesk-Mini/blob/main/Screenshots/Screenshot%202026-07-25%20021809.png)
+| **Admin Login** | https://github.com/Sumitkumar016/LeadDesk-Mini/blob/main/Screenshots/Screenshot%202026-07-25%20021830.png
+| **Dashboard Overview** | https://github.com/Sumitkumar016/LeadDesk-Mini/blob/main/Screenshots/Screenshot%202026-07-25%20021759.png
+| **Lead Table** | https://github.com/Sumitkumar016/LeadDesk-Mini/blob/main/Screenshots/Screenshot%202026-07-25%20021809.png
 
 ---
 
