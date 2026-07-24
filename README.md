@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LeadDesk Mini - Full-Stack CRM & Lead Management System
 
 LeadDesk Mini is a modern, production-ready MERN Stack application built for SaaS companies and agencies to capture inbound lead inquiries, qualify prospects, and manage sales pipelines seamlessly.
@@ -150,3 +151,6 @@ npm run dev
 - ✅ **Search & Filter Engine**: Instant search by Lead Name, Email, Message, or Status. Filter by status categories.
 - ✅ **Skeleton Loaders & Zero-States**: Smooth UX transitions with pulse loaders and empty state placeholders.
 - ✅ **Logout Confirmation Dialog**: Safety modal prompt before terminating admin sessions.
+=======
+# LeadDesk-Mini
+>>>>>>> 6b97b1954e898d0dfc0988a5a0d037cb3409bdc2
